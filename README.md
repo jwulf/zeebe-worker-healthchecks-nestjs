@@ -1,2 +1,3 @@
-# zeebe-worker-healthchecks-nestjs
+# Zeebe Worker Healthchecks POC
+
 Healthchecks.io integration for Zeebe workers
