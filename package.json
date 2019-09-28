@@ -1,0 +1,24 @@
+{
+  "name": "zeebe-worker-healthchecks-poc",
+  "version": "1.0.0",
+  "description": "Healthchecks.io integration for Zeebe workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwulf/zeebe-worker-healthchecks-poc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwulf/zeebe-worker-healthchecks-poc/issues"
+  },
+  "homepage": "https://github.com/jwulf/zeebe-worker-healthchecks-poc#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "zeebe-node": "^0.20.6"
+  }
+}
